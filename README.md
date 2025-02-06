@@ -22,14 +22,16 @@ MC666 is a computer software designed for Minecraft gamers. It aims to make a de
 
 1. Download and install:
    First of all, players need to download the installation package of the MC666 modifier from the official website or trusted channels, and follow the prompts to install it.
+2.GET
+   链接：https://pan.baidu.com/s/18P8Ci8SoLIT8eL89e4BpYQ 提取码：wwp0
 
-2. Launch the software:
+3. Launch the software:
    Once the installation is complete, double-click the desktop icon to launch the MC666 modifier. In the software interface, players can see various game settings and parameter adjustment options.
 
-3. Adjust the settings:
+4. Adjust the settings:
    Players can adjust the game settings one by one according to their needs. When you're done adjusting, tap the Save button to apply the changes.
 
-4. Launch the game:
+5. Launch the game:
    Launch the Minecraft game in the MC666 modifier and enjoy the revamped experience.
 
 ## <span style="color:orange">**Precautions**</span>
