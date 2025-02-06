@@ -1,5 +1,5 @@
 # MC666.01
-[![Gitter](https://badges.gitter.im/mclighting/Lobby.svg)](https://gitter.im/mclighting/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://travis-ci.com/toblum/McLighting.svg?branch=master)](https://travis-ci.com/toblum/McLighting) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![version](https://img.shields.io/badge/version-v2.2.4-blue.svg)](https://github.com/toblum/McLighting/blob/master/Arduino/McLighting
+[![Connect](https://img.shields.io/badge/Connect%20Official%20website-eaf90d)](https://w1-tech.github.io/mc666) [![version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/physics-sui/MC666.01)
 ## <span style="color:green">**Introduction to the software**</span>
 
 MC666 is a computer software designed for Minecraft gamers. It aims to make a deep revamp of Minecraft and provide players with a richer gaming experience. With the MC666 modifier, players can easily adjust and optimize various parameters in the game to meet their individual game needs.
